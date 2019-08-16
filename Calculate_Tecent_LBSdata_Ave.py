@@ -2,7 +2,6 @@ import pymysql
 pymysql.install_as_MySQLdb()
 import MySQLdb
 import pandas as pd
-# from sqlalchemy import create_engine
 # import time
 import sys
 sys.path.append('D:\中规院信息中心智慧城市\北京乡村DOU研究')
