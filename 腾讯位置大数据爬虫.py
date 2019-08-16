@@ -1,11 +1,8 @@
 import json
-from bs4 import BeautifulSoup
-import lxml
 import requests
 import pymysql
 pymysql.install_as_MySQLdb()
 import MySQLdb
-import pandas as pd
 import time
 
 
